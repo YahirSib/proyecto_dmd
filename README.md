@@ -3,7 +3,7 @@
 - **Materia:** DMD
 - **Universidad:** Univeridad Don Bosco
 - **Docente:** Ing. Karens Medrano
-- 
+
 ## Integrantes del Grupo
 - Yahir Stewart Sibrian Arriola (SA212551)
 - Francisco Alexander Segura Acosta (SA212550)
