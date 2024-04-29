@@ -5,8 +5,9 @@
 - **Docente:** Ing. Karens Medrano
 
 ## Integrantes del Grupo
-- Yahir Stewart Sibrian Arriola (SA212551)
-- Francisco Alexander Segura Acosta (SA212550)
-- William Alberto García Gómez (GG212522)
-- Milton Antonio Flores Gómez (FG212499)
+- Milton Antonio Flores Gómez - FG212499
+- William Alberto García Gómez - GG212522
+- Christian Yahir López Hernández - LH212531
+- Yahir Stewart Sibrian Arriola - MG223061
+- Francisco Alexander Segura Acosta - MR211303
 
